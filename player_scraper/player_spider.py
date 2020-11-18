@@ -1,6 +1,6 @@
 import scrapy
 
-
+### This scrapes the playerdata from fbref.com
 class PlayerSpider(scrapy.Spider):
     name = "Player"
     baseurl = 'https://fbref.com'
