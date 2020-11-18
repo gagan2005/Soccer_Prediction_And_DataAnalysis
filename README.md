@@ -1,13 +1,17 @@
 # Soccer_Analysis-Prediction
 
-Requirements
+## Requirements
+* General Data science and ML libraries
+### Other Pip Libraries ( Run  `pip install <name>` command to install) 
+* elo - `pip install elo`
 
-1.General Data science and ML libraries
+* scrapy
 
-2.elo - `pip install elo`
+* wordcloud
 
-3.scrapy
+* xgBoost
 
-4.wordcloud
+* nltk 
 
-5.XgBoost
+
+
