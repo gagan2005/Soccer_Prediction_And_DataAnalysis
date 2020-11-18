@@ -1,6 +1,6 @@
 # Soccer_Analysis-Prediction
 
-Requirements
+## Requirements
 * General Data science and ML libraries
 ### Other Pip Libraries ( Run  `pip install <name>` command to install) 
 * elo - `pip install elo`
